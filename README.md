@@ -1,3 +1,5 @@
+![Preview](calculator.PNG?raw=true)
+
 # calculator
 
 ## Project setup
